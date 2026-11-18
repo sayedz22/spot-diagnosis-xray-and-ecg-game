@@ -1,0 +1,188 @@
+id,type,image,diagnosis,key_source
+e001,ecg,/img/e001.jpg,"Anterolateral myocardial ischemia (ST depression V2–V6, aVL; LAD territory)",from your PDF
+e002,ecg,/img/e002.jpg,Atrial fibrillation with extensive anterior myocardial ischemia (one ventricular ectopic),from your PDF
+e003,ecg,/img/e003.jpg,Right ventricular hypertrophy with right atrial enlargement and inferoanterior ischemia,from your PDF
+e004,ecg,/img/e004.jpg,Right ventricular hypertrophy with right atrial enlargement and myocardial ischemia,from your PDF
+e005,ecg,/img/e005.jpg,Inferior myocardial infarction (sinus rhythm),from your PDF
+e006,ecg,/img/e006.jpg,Left anterior hemiblock with lateral ischemia,from your PDF
+e007,ecg,/img/e007.jpg,Old anterior wall myocardial infarction with lateral ischemia,from your PDF
+e008,ecg,/img/e008.jpg,Anterior non-Q-wave myocardial infarction,from your PDF
+e009,ecg,/img/e009.jpg,Anterolateral MI with ventricular extrasystoles and inferior ischemia,from your PDF
+e010,ecg,/img/e010.jpg,Anterolateral ischemia with left ventricular enlargement,from your PDF
+e011,ecg,/img/e011.jpg,Acute inferior myocardial infarction,from your PDF
+e012,ecg,/img/e012.jpg,Acute anterolateral MI with ventricular premature beats,from your PDF
+e013,ecg,/img/e013.jpg,First-degree heart block with acute anterior MI,from your PDF
+e014,ecg,/img/e014.jpg,Acute inferior myocardial infarction,from your PDF
+e015,ecg,/img/e015.jpg,Acute inferior myocardial infarction,from your PDF
+e016,ecg,/img/e016.jpg,Inferolateral NSTE-ACS (inferolateral T-wave inversion),from your PDF
+e017,ecg,/img/e017.jpg,Acute extensive anterior MI with right atrial dilatation and high lateral ischemia,from your PDF
+e018,ecg,/img/e018.jpg,Left ventricular hypertrophy with left posterior hemiblock and inferior ischemia,from your PDF
+e019,ecg,/img/e019.jpg,Second-degree (Wenckebach / Mobitz I) AV block with acute inferior STEMI,from your PDF
+e020,ecg,/img/e020.jpg,Hyperacute extensive anterior MI with sinus arrhythmia,from your PDF
+e021,ecg,/img/e021.jpg,"Sinus tachycardia with right atrial dilatation, LV enlargement and inferior/high lateral ischemia",from your PDF
+e022,ecg,/img/e022.jpg,Left ventricular hypertrophy with biatrial enlargement and inferolateral ischemia,from your PDF
+e023,ecg,/img/e023.jpg,Hyperacute inferior MI with old anteroseptal MI (sinus arrhythmia),from your PDF
+e024,ecg,/img/e024.jpg,Right ventricular hypertrophy with anteroinferior ischemia,from your PDF
+e025,ecg,/img/e025.jpg,Old anteroseptal MI (sinus tachycardia with atrial ectopics),from your PDF
+e026,ecg,/img/e026.jpg,Old anteroseptal MI with inferior ischemia and low voltage,from your PDF
+e027,ecg,/img/e027.jpg,Evolving inferior and posterior myocardial infarction,from your PDF
+e028,ecg,/img/e028.jpg,Classical anterior wall MI with lateral ischemia,from your PDF
+e029,ecg,/img/e029.jpg,Old anteroseptal MI with biatrial enlargement and high lateral ischemia,from your PDF
+e030,ecg,/img/e030.jpg,Extensive anterior myocardial ischemia (with inferior Q waves),from your PDF
+e031,ecg,/img/e031.jpg,Old inferior myocardial infarction (peaked T waves V1–V5),from your PDF
+e032,ecg,/img/e032.jpg,Acute anterior ST-elevation MI (hyperacute T waves; Prinzmetal angina if transient),from your PDF
+e033,ecg,/img/e033.jpg,Acute inferior STEMI with reciprocal lateral changes,from your PDF
+e034,ecg,/img/e034.jpg,Atrial fibrillation with left anterior hemiblock and acute anterolateral MI,from your PDF
+e035,ecg,/img/e035.jpg,Acute lateral STEMI,from your PDF
+e036,ecg,/img/e036.jpg,Atrial fibrillation with left bundle branch block,from your PDF
+e037,ecg,/img/e037.jpg,Slow atrial fibrillation,from your PDF
+e038,ecg,/img/e038.jpg,Fine atrial fibrillation with rapid ventricular response,from your PDF
+e039,ecg,/img/e039.jpg,Atrial fibrillation,from your PDF
+e040,ecg,/img/e040.jpg,Coarse atrial fibrillation with normal ventricular response,from your PDF
+e041,ecg,/img/e041.jpg,Coarse atrial fibrillation with slow ventricular response,from your PDF
+e042,ecg,/img/e042.jpg,Atrial fibrillation with digoxin effect (reverse-tick ST depression),from your PDF
+e043,ecg,/img/e043.jpg,Atrial fibrillation,from your PDF
+e044,ecg,/img/e044.jpg,Atrial fibrillation,from your PDF
+e045,ecg,/img/e045.jpg,Atrial fibrillation with left bundle branch block,from your PDF
+e046,ecg,/img/e046.jpg,Atrial fibrillation,from your PDF
+e047,ecg,/img/e047.jpg,Right atrial and right ventricular hypertrophy with strain pattern,from your PDF
+e048,ecg,/img/e048.jpg,Left atrial and left ventricular hypertrophy,from your PDF
+e049,ecg,/img/e049.jpg,Right atrial and right ventricular hypertrophy,from your PDF
+e050,ecg,/img/e050.jpg,Left ventricular hypertrophy with strain (ischemia),from your PDF
+e051,ecg,/img/e051.jpg,Severe right ventricular hypertrophy with strain,from your PDF
+e052,ecg,/img/e052.jpg,Hyperkalemia,from your PDF
+e053,ecg,/img/e053.jpg,Sinus rhythm with premature ventricular beat; left atrial and left ventricular enlargement,from your PDF
+e054,ecg,/img/e054.jpg,Left ventricular hypertrophy with strain pattern,from your PDF
+e055,ecg,/img/e055.jpg,First-degree heart block,from your PDF
+e056,ecg,/img/e056.jpg,Sinus bradycardia with first-degree AV block,from your PDF
+e057,ecg,/img/e057.jpg,Sinus bradycardia with first-degree AV block,from your PDF
+e058,ecg,/img/e058.jpg,Second-degree AV block Mobitz II with 3:1 conduction,from your PDF
+e059,ecg,/img/e059.jpg,Second-degree AV block Mobitz II,from your PDF
+e060,ecg,/img/e060.jpg,Second-degree AV block Type I (Wenckebach),from your PDF
+e061,ecg,/img/e061.jpg,Complete (third-degree) heart block,from your PDF
+e062,ecg,/img/e062.jpg,Third-degree (complete) AV block,from your PDF
+e067,ecg,/img/e067.jpg,Second-degree AV block Mobitz II (2:1),from your PDF
+e068,ecg,/img/e068.jpg,Trifascicular block (first-degree AV block + RBBB + left anterior hemiblock),from your PDF
+e069,ecg,/img/e069.jpg,Complete heart block (AV dissociation),from your PDF
+e070,ecg,/img/e070.jpg,Wenckebach (Mobitz I) AV block 4:3,from your PDF
+e071,ecg,/img/e071.jpg,Complete heart block,from your PDF
+e072,ecg,/img/e072.jpg,Left anterior hemiblock with left atrial dilatation,from your PDF
+e073,ecg,/img/e073.jpg,Left atrial enlargement (P mitrale),from your PDF
+e074,ecg,/img/e074.jpg,Acute pericarditis (with atrial fibrillation),from your PDF
+e075,ecg,/img/e075.jpg,Acute pericarditis,from your PDF
+e076,ecg,/img/e076.jpg,Wolff–Parkinson–White syndrome,from your PDF
+e077,ecg,/img/e077.jpg,Wolff–Parkinson–White syndrome,from your PDF
+e078,ecg,/img/e078.jpg,Wolff–Parkinson–White syndrome,from your PDF
+e079,ecg,/img/e079.jpg,Severe hyperkalemia,from your PDF
+e080,ecg,/img/e080.jpg,Hyperkalemia,from your PDF
+e081,ecg,/img/e081.jpg,"Hypokalemia (U waves, first-degree AV block)",from your PDF
+e082,ecg,/img/e082.jpg,Hyperkalemia,from your PDF
+e083,ecg,/img/e083.jpg,Monomorphic ventricular tachycardia,from your PDF
+e084,ecg,/img/e084.jpg,Torsades de pointes (polymorphic VT),from your PDF
+e085,ecg,/img/e085.jpg,Polymorphic ventricular tachycardia (torsades de pointes),from your PDF
+e086,ecg,/img/e086.jpg,Sinus bradycardia,from your PDF
+e087,ecg,/img/e087.jpg,Sinus bradycardia with bundle branch block,from your PDF
+e088,ecg,/img/e088.jpg,Sinus bradycardia with first-degree AV block,from your PDF
+e089,ecg,/img/e089.jpg,Sinus bradycardia,from your PDF
+e090,ecg,/img/e090.jpg,Sinus bradycardia with ventricular bigeminy,from your PDF
+e091,ecg,/img/e091.jpg,Sinus bradycardia,from your PDF
+e092,ecg,/img/e092.jpg,Sinus tachycardia,from your PDF
+e093,ecg,/img/e093.jpg,Sinus tachycardia with muscle artifact,from your PDF
+e094,ecg,/img/e094.jpg,Sinus tachycardia,from your PDF
+e095,ecg,/img/e095.jpg,Sinus tachycardia with a ventricular extrasystole; right atrial and right ventricular hypertrophy,from your PDF
+e096,ecg,/img/e096.jpg,Sinus rhythm with ventricular bigeminy,from your PDF
+e097,ecg,/img/e097.jpg,Sinus tachycardia,from your PDF
+e098,ecg,/img/e098.jpg,Ventricular tachycardia,from your PDF
+e099,ecg,/img/e099.jpg,Ventricular tachycardia,from your PDF
+e100,ecg,/img/e100.jpg,Ventricular tachycardia,from your PDF
+e101,ecg,/img/e101.jpg,Torsades de pointes (ventricular tachycardia),from your PDF
+e102,ecg,/img/e102.jpg,Polymorphic ventricular tachycardia,from your PDF
+e103,ecg,/img/e103.jpg,Ventricular tachycardia,from your PDF
+e104,ecg,/img/e104.jpg,Left bundle branch block (sinus tachycardia),from your PDF
+e105,ecg,/img/e105.jpg,Left bundle branch block,from your PDF
+e106,ecg,/img/e106.jpg,Left bundle branch block (complete),from your PDF
+e107,ecg,/img/e107.jpg,Left bundle branch block (complete),from your PDF
+e108,ecg,/img/e108.jpg,Right bundle branch block (complete),from your PDF
+e109,ecg,/img/e109.jpg,Sinus bradycardia with right bundle branch block,from your PDF
+e110,ecg,/img/e110.jpg,Right bundle branch block,from your PDF
+e111,ecg,/img/e111.jpg,Bifascicular block (left anterior hemiblock + RBBB),from your PDF
+e112,ecg,/img/e112.jpg,Bifascicular block (left posterior hemiblock + RBBB),from your PDF
+e113,ecg,/img/e113.jpg,Right bundle branch block,from your PDF
+e114,ecg,/img/e114.jpg,Supraventricular tachycardia (AVNRT),from your PDF
+e115,ecg,/img/e115.jpg,Escape junctional rhythm,from your PDF
+e116,ecg,/img/e116.jpg,Escape idioventricular rhythm,from your PDF
+e117,ecg,/img/e117.jpg,Accelerated idioventricular rhythm,from your PDF
+e118,ecg,/img/e118.jpg,Idioventricular rhythm,from your PDF
+e119,ecg,/img/e119.jpg,Idioventricular rhythm,from your PDF
+e120,ecg,/img/e120.jpg,Accelerated junctional rhythm,from your PDF
+e121,ecg,/img/e121.jpg,Junctional rhythm,from your PDF
+e122,ecg,/img/e122.jpg,Junctional rhythm,from your PDF
+e123,ecg,/img/e123.jpg,Accelerated junctional rhythm,from your PDF
+e124,ecg,/img/e124.jpg,Ventricular bigeminy,from your PDF
+e125,ecg,/img/e125.jpg,Atrial flutter with 2:1 conduction,from your PDF
+e126,ecg,/img/e126.jpg,Atrial flutter,from your PDF
+e127,ecg,/img/e127.jpg,Atrial flutter with variable block,from your PDF
+e128,ecg,/img/e128.jpg,Atrial flutter with 2:1 block,from your PDF
+e129,ecg,/img/e129.jpg,Atrial flutter with 4:1 block,from your PDF
+e130,ecg,/img/e130.jpg,Ventricular tachycardia converting to sinus rhythm after cardioversion,from your PDF
+e131,ecg,/img/e131.jpg,Premature ventricular beat and atrial premature beat,from your PDF
+e132,ecg,/img/e132.jpg,Atrial premature beat with normal sinus rhythm,from your PDF
+e133,ecg,/img/e133.jpg,Premature ventricular beat with normal sinus rhythm,from your PDF
+e134,ecg,/img/e134.jpg,Sinus rhythm with two premature atrial contractions,from your PDF
+e135,ecg,/img/e135.jpg,Sinus pause / sinus arrest,from your PDF
+e136,ecg,/img/e136.jpg,Ventricular extrasystole,from your PDF
+e137,ecg,/img/e137.jpg,Asystole,from your PDF
+e138,ecg,/img/e138.jpg,P-wave asystole (ventricular standstill),from your PDF
+e140,ecg,/img/e140.jpg,PSVT (junctional rhythm converting to supraventricular tachycardia),from your PDF
+e141,ecg,/img/e141.jpg,PSVT (junctional rhythm converting to supraventricular tachycardia),from your PDF
+e142,ecg,/img/e142.jpg,Torsades de pointes,from your PDF
+e143,ecg,/img/e143.jpg,"Acute pulmonary embolism (sinus tachycardia, S1Q3T3)",from your PDF
+e145,ecg,/img/e145.jpg,Atrioventricular (dual-chamber) paced rhythm,from your PDF
+e146,ecg,/img/e146.jpg,Artificial ventricular pacemaker rhythm,from your PDF
+e147,ecg,/img/e147.jpg,Wandering atrial pacemaker with old anteroseptal MI,from your PDF
+e148,ecg,/img/e148.jpg,Normal sinus rhythm,from your PDF
+e149,ecg,/img/e149.jpg,Normal sinus rhythm with U wave,from your PDF
+e150,ecg,/img/e150.jpg,Sinus rhythm with premature junctional contractions,from your PDF
+e151,ecg,/img/e151.jpg,Sinus rhythm with ST-segment depression,from your PDF
+e152,ecg,/img/e152.jpg,Sinus rhythm with two premature atrial contractions,from your PDF
+e153,ecg,/img/e153.jpg,Sinus rhythm with ventricular trigeminy,from your PDF
+e154,ecg,/img/e154.jpg,Sinus rhythm with multiform PVCs,from your PDF
+e155,ecg,/img/e155.jpg,Supraventricular tachycardia converting to sinus rhythm,from your PDF
+e156,ecg,/img/e156.jpg,Supraventricular tachycardia,from your PDF
+e157,ecg,/img/e157.jpg,Supraventricular (nodal) tachycardia,from your PDF
+e158,ecg,/img/e158.jpg,Supraventricular (junctional) tachycardia,from your PDF
+e159,ecg,/img/e159.jpg,Supraventricular tachycardia converting to sinus rhythm,from your PDF
+e160,ecg,/img/e160.jpg,AV nodal reentrant tachycardia (SVT),from your PDF
+e161,ecg,/img/e161.jpg,Atrial tachycardia (SVT),from your PDF
+e162,ecg,/img/e162.jpg,Supraventricular tachycardia,from your PDF
+e163,ecg,/img/e163.jpg,Supraventricular tachycardia,from your PDF
+e164,ecg,/img/e164.jpg,Ventricular fibrillation,from your PDF
+e165,ecg,/img/e165.jpg,Ventricular fibrillation,from your PDF
+e166,ecg,/img/e166.jpg,Ventricular fibrillation converted to sinus rhythm by defibrillation,from your PDF
+e167,ecg,/img/e167.jpg,Ventricular fibrillation,from your PDF
+e168,ecg,/img/e168.jpg,Artifact due to loose electrodes,from your PDF
+e169,ecg,/img/e169.jpg,Sinus arrhythmia,from your PDF
+x07,xray,/img/x07.jpg,Pulmonary tuberculosis (bilateral upper-zone cavitary disease),AI-read (please verify)
+x09,xray,/img/x09.jpg,Pneumopericardium,AI-read (please verify)
+x10,xray,/img/x10.jpg,Massive left pleural effusion,AI-read (please verify)
+x12,xray,/img/x12.jpg,Pericardial effusion (globular 'water-bottle' heart),AI-read (please verify)
+x15,xray,/img/x15.jpg,Lung abscess (thick-walled cavity with air-fluid level),AI-read (please verify)
+x17,xray,/img/x17.jpg,Osteoarthritis of the hand (DIP / Heberden's nodes),AI-read (please verify)
+x20,xray,/img/x20.jpg,Rheumatoid arthritis (bilateral hands),AI-read (please verify)
+x21,xray,/img/x21.jpg,Osteoarthritis of the knee,AI-read (please verify)
+x22,xray,/img/x22.jpg,Paget's disease of the skull,AI-read (please verify)
+x23,xray,/img/x23.jpg,Normal chest X-ray,AI-read (please verify)
+x25,xray,/img/x25.jpg,Emphysema (COPD) with bullae,AI-read (please verify)
+x27,xray,/img/x27.jpg,Congenital diaphragmatic hernia,AI-read (please verify)
+x32,xray,/img/x32.jpg,Multiple myeloma (punched-out lytic skull lesions),AI-read (please verify)
+x41,xray,/img/x41.jpg,Miliary tuberculosis,AI-read (please verify)
+x42,xray,/img/x42.jpg,Lung abscess (thick-walled cavitating lesion),AI-read (please verify)
+x45,xray,/img/x45.jpg,Left pneumothorax,AI-read (please verify)
+x47,xray,/img/x47.jpg,Bilateral hilar lymphadenopathy,AI-read (please verify)
+x48,xray,/img/x48.jpg,Mitral stenosis (left atrial enlargement),AI-read (please verify)
+x49,xray,/img/x49.jpg,Cardiomegaly with permanent pacemaker / ICD in situ,AI-read (please verify)
+x51,xray,/img/x51.jpg,Ankylosing spondylitis (bamboo spine),AI-read (please verify)
+x53,xray,/img/x53.jpg,Right hydropneumothorax,AI-read (please verify)
+x54,xray,/img/x54.jpg,Bronchiectasis (bronchogram),AI-read (please verify)
+x57,xray,/img/x57.jpg,Interstitial lung disease / pulmonary fibrosis,AI-read (please verify)
+x58,xray,/img/x58.jpg,Pulmonary edema,AI-read (please verify)

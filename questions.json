@@ -1,0 +1,1311 @@
+[
+ {
+  "id": "e001",
+  "type": "ecg",
+  "img": "/img/e001.jpg",
+  "dx": "Anterolateral myocardial ischemia (ST depression V2–V6, aVL; LAD territory)",
+  "verified": true
+ },
+ {
+  "id": "e002",
+  "type": "ecg",
+  "img": "/img/e002.jpg",
+  "dx": "Atrial fibrillation with extensive anterior myocardial ischemia (one ventricular ectopic)",
+  "verified": true
+ },
+ {
+  "id": "e003",
+  "type": "ecg",
+  "img": "/img/e003.jpg",
+  "dx": "Right ventricular hypertrophy with right atrial enlargement and inferoanterior ischemia",
+  "verified": true
+ },
+ {
+  "id": "e004",
+  "type": "ecg",
+  "img": "/img/e004.jpg",
+  "dx": "Right ventricular hypertrophy with right atrial enlargement and myocardial ischemia",
+  "verified": true
+ },
+ {
+  "id": "e005",
+  "type": "ecg",
+  "img": "/img/e005.jpg",
+  "dx": "Inferior myocardial infarction (sinus rhythm)",
+  "verified": true
+ },
+ {
+  "id": "e006",
+  "type": "ecg",
+  "img": "/img/e006.jpg",
+  "dx": "Left anterior hemiblock with lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e007",
+  "type": "ecg",
+  "img": "/img/e007.jpg",
+  "dx": "Old anterior wall myocardial infarction with lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e008",
+  "type": "ecg",
+  "img": "/img/e008.jpg",
+  "dx": "Anterior non-Q-wave myocardial infarction",
+  "verified": true
+ },
+ {
+  "id": "e009",
+  "type": "ecg",
+  "img": "/img/e009.jpg",
+  "dx": "Anterolateral MI with ventricular extrasystoles and inferior ischemia",
+  "verified": true
+ },
+ {
+  "id": "e010",
+  "type": "ecg",
+  "img": "/img/e010.jpg",
+  "dx": "Anterolateral ischemia with left ventricular enlargement",
+  "verified": true
+ },
+ {
+  "id": "e011",
+  "type": "ecg",
+  "img": "/img/e011.jpg",
+  "dx": "Acute inferior myocardial infarction",
+  "verified": true
+ },
+ {
+  "id": "e012",
+  "type": "ecg",
+  "img": "/img/e012.jpg",
+  "dx": "Acute anterolateral MI with ventricular premature beats",
+  "verified": true
+ },
+ {
+  "id": "e013",
+  "type": "ecg",
+  "img": "/img/e013.jpg",
+  "dx": "First-degree heart block with acute anterior MI",
+  "verified": true
+ },
+ {
+  "id": "e014",
+  "type": "ecg",
+  "img": "/img/e014.jpg",
+  "dx": "Acute inferior myocardial infarction",
+  "verified": true
+ },
+ {
+  "id": "e015",
+  "type": "ecg",
+  "img": "/img/e015.jpg",
+  "dx": "Acute inferior myocardial infarction",
+  "verified": true
+ },
+ {
+  "id": "e016",
+  "type": "ecg",
+  "img": "/img/e016.jpg",
+  "dx": "Inferolateral NSTE-ACS (inferolateral T-wave inversion)",
+  "verified": true
+ },
+ {
+  "id": "e017",
+  "type": "ecg",
+  "img": "/img/e017.jpg",
+  "dx": "Acute extensive anterior MI with right atrial dilatation and high lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e018",
+  "type": "ecg",
+  "img": "/img/e018.jpg",
+  "dx": "Left ventricular hypertrophy with left posterior hemiblock and inferior ischemia",
+  "verified": true
+ },
+ {
+  "id": "e019",
+  "type": "ecg",
+  "img": "/img/e019.jpg",
+  "dx": "Second-degree (Wenckebach / Mobitz I) AV block with acute inferior STEMI",
+  "verified": true
+ },
+ {
+  "id": "e020",
+  "type": "ecg",
+  "img": "/img/e020.jpg",
+  "dx": "Hyperacute extensive anterior MI with sinus arrhythmia",
+  "verified": true
+ },
+ {
+  "id": "e021",
+  "type": "ecg",
+  "img": "/img/e021.jpg",
+  "dx": "Sinus tachycardia with right atrial dilatation, LV enlargement and inferior/high lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e022",
+  "type": "ecg",
+  "img": "/img/e022.jpg",
+  "dx": "Left ventricular hypertrophy with biatrial enlargement and inferolateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e023",
+  "type": "ecg",
+  "img": "/img/e023.jpg",
+  "dx": "Hyperacute inferior MI with old anteroseptal MI (sinus arrhythmia)",
+  "verified": true
+ },
+ {
+  "id": "e024",
+  "type": "ecg",
+  "img": "/img/e024.jpg",
+  "dx": "Right ventricular hypertrophy with anteroinferior ischemia",
+  "verified": true
+ },
+ {
+  "id": "e025",
+  "type": "ecg",
+  "img": "/img/e025.jpg",
+  "dx": "Old anteroseptal MI (sinus tachycardia with atrial ectopics)",
+  "verified": true
+ },
+ {
+  "id": "e026",
+  "type": "ecg",
+  "img": "/img/e026.jpg",
+  "dx": "Old anteroseptal MI with inferior ischemia and low voltage",
+  "verified": true
+ },
+ {
+  "id": "e027",
+  "type": "ecg",
+  "img": "/img/e027.jpg",
+  "dx": "Evolving inferior and posterior myocardial infarction",
+  "verified": true
+ },
+ {
+  "id": "e028",
+  "type": "ecg",
+  "img": "/img/e028.jpg",
+  "dx": "Classical anterior wall MI with lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e029",
+  "type": "ecg",
+  "img": "/img/e029.jpg",
+  "dx": "Old anteroseptal MI with biatrial enlargement and high lateral ischemia",
+  "verified": true
+ },
+ {
+  "id": "e030",
+  "type": "ecg",
+  "img": "/img/e030.jpg",
+  "dx": "Extensive anterior myocardial ischemia (with inferior Q waves)",
+  "verified": true
+ },
+ {
+  "id": "e031",
+  "type": "ecg",
+  "img": "/img/e031.jpg",
+  "dx": "Old inferior myocardial infarction (peaked T waves V1–V5)",
+  "verified": true
+ },
+ {
+  "id": "e032",
+  "type": "ecg",
+  "img": "/img/e032.jpg",
+  "dx": "Acute anterior ST-elevation MI (hyperacute T waves; Prinzmetal angina if transient)",
+  "verified": true
+ },
+ {
+  "id": "e033",
+  "type": "ecg",
+  "img": "/img/e033.jpg",
+  "dx": "Acute inferior STEMI with reciprocal lateral changes",
+  "verified": true
+ },
+ {
+  "id": "e034",
+  "type": "ecg",
+  "img": "/img/e034.jpg",
+  "dx": "Atrial fibrillation with left anterior hemiblock and acute anterolateral MI",
+  "verified": true
+ },
+ {
+  "id": "e035",
+  "type": "ecg",
+  "img": "/img/e035.jpg",
+  "dx": "Acute lateral STEMI",
+  "verified": true
+ },
+ {
+  "id": "e036",
+  "type": "ecg",
+  "img": "/img/e036.jpg",
+  "dx": "Atrial fibrillation with left bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e037",
+  "type": "ecg",
+  "img": "/img/e037.jpg",
+  "dx": "Slow atrial fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e038",
+  "type": "ecg",
+  "img": "/img/e038.jpg",
+  "dx": "Fine atrial fibrillation with rapid ventricular response",
+  "verified": true
+ },
+ {
+  "id": "e039",
+  "type": "ecg",
+  "img": "/img/e039.jpg",
+  "dx": "Atrial fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e040",
+  "type": "ecg",
+  "img": "/img/e040.jpg",
+  "dx": "Coarse atrial fibrillation with normal ventricular response",
+  "verified": true
+ },
+ {
+  "id": "e041",
+  "type": "ecg",
+  "img": "/img/e041.jpg",
+  "dx": "Coarse atrial fibrillation with slow ventricular response",
+  "verified": true
+ },
+ {
+  "id": "e042",
+  "type": "ecg",
+  "img": "/img/e042.jpg",
+  "dx": "Atrial fibrillation with digoxin effect (reverse-tick ST depression)",
+  "verified": true
+ },
+ {
+  "id": "e043",
+  "type": "ecg",
+  "img": "/img/e043.jpg",
+  "dx": "Atrial fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e044",
+  "type": "ecg",
+  "img": "/img/e044.jpg",
+  "dx": "Atrial fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e045",
+  "type": "ecg",
+  "img": "/img/e045.jpg",
+  "dx": "Atrial fibrillation with left bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e046",
+  "type": "ecg",
+  "img": "/img/e046.jpg",
+  "dx": "Atrial fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e047",
+  "type": "ecg",
+  "img": "/img/e047.jpg",
+  "dx": "Right atrial and right ventricular hypertrophy with strain pattern",
+  "verified": true
+ },
+ {
+  "id": "e048",
+  "type": "ecg",
+  "img": "/img/e048.jpg",
+  "dx": "Left atrial and left ventricular hypertrophy",
+  "verified": true
+ },
+ {
+  "id": "e049",
+  "type": "ecg",
+  "img": "/img/e049.jpg",
+  "dx": "Right atrial and right ventricular hypertrophy",
+  "verified": true
+ },
+ {
+  "id": "e050",
+  "type": "ecg",
+  "img": "/img/e050.jpg",
+  "dx": "Left ventricular hypertrophy with strain (ischemia)",
+  "verified": true
+ },
+ {
+  "id": "e051",
+  "type": "ecg",
+  "img": "/img/e051.jpg",
+  "dx": "Severe right ventricular hypertrophy with strain",
+  "verified": true
+ },
+ {
+  "id": "e052",
+  "type": "ecg",
+  "img": "/img/e052.jpg",
+  "dx": "Hyperkalemia",
+  "verified": true
+ },
+ {
+  "id": "e053",
+  "type": "ecg",
+  "img": "/img/e053.jpg",
+  "dx": "Sinus rhythm with premature ventricular beat; left atrial and left ventricular enlargement",
+  "verified": true
+ },
+ {
+  "id": "e054",
+  "type": "ecg",
+  "img": "/img/e054.jpg",
+  "dx": "Left ventricular hypertrophy with strain pattern",
+  "verified": true
+ },
+ {
+  "id": "e055",
+  "type": "ecg",
+  "img": "/img/e055.jpg",
+  "dx": "First-degree heart block",
+  "verified": true
+ },
+ {
+  "id": "e056",
+  "type": "ecg",
+  "img": "/img/e056.jpg",
+  "dx": "Sinus bradycardia with first-degree AV block",
+  "verified": true
+ },
+ {
+  "id": "e057",
+  "type": "ecg",
+  "img": "/img/e057.jpg",
+  "dx": "Sinus bradycardia with first-degree AV block",
+  "verified": true
+ },
+ {
+  "id": "e058",
+  "type": "ecg",
+  "img": "/img/e058.jpg",
+  "dx": "Second-degree AV block Mobitz II with 3:1 conduction",
+  "verified": true
+ },
+ {
+  "id": "e059",
+  "type": "ecg",
+  "img": "/img/e059.jpg",
+  "dx": "Second-degree AV block Mobitz II",
+  "verified": true
+ },
+ {
+  "id": "e060",
+  "type": "ecg",
+  "img": "/img/e060.jpg",
+  "dx": "Second-degree AV block Type I (Wenckebach)",
+  "verified": true
+ },
+ {
+  "id": "e061",
+  "type": "ecg",
+  "img": "/img/e061.jpg",
+  "dx": "Complete (third-degree) heart block",
+  "verified": true
+ },
+ {
+  "id": "e062",
+  "type": "ecg",
+  "img": "/img/e062.jpg",
+  "dx": "Third-degree (complete) AV block",
+  "verified": true
+ },
+ {
+  "id": "e067",
+  "type": "ecg",
+  "img": "/img/e067.jpg",
+  "dx": "Second-degree AV block Mobitz II (2:1)",
+  "verified": true
+ },
+ {
+  "id": "e068",
+  "type": "ecg",
+  "img": "/img/e068.jpg",
+  "dx": "Trifascicular block (first-degree AV block + RBBB + left anterior hemiblock)",
+  "verified": true
+ },
+ {
+  "id": "e069",
+  "type": "ecg",
+  "img": "/img/e069.jpg",
+  "dx": "Complete heart block (AV dissociation)",
+  "verified": true
+ },
+ {
+  "id": "e070",
+  "type": "ecg",
+  "img": "/img/e070.jpg",
+  "dx": "Wenckebach (Mobitz I) AV block 4:3",
+  "verified": true
+ },
+ {
+  "id": "e071",
+  "type": "ecg",
+  "img": "/img/e071.jpg",
+  "dx": "Complete heart block",
+  "verified": true
+ },
+ {
+  "id": "e072",
+  "type": "ecg",
+  "img": "/img/e072.jpg",
+  "dx": "Left anterior hemiblock with left atrial dilatation",
+  "verified": true
+ },
+ {
+  "id": "e073",
+  "type": "ecg",
+  "img": "/img/e073.jpg",
+  "dx": "Left atrial enlargement (P mitrale)",
+  "verified": true
+ },
+ {
+  "id": "e074",
+  "type": "ecg",
+  "img": "/img/e074.jpg",
+  "dx": "Acute pericarditis (with atrial fibrillation)",
+  "verified": true
+ },
+ {
+  "id": "e075",
+  "type": "ecg",
+  "img": "/img/e075.jpg",
+  "dx": "Acute pericarditis",
+  "verified": true
+ },
+ {
+  "id": "e076",
+  "type": "ecg",
+  "img": "/img/e076.jpg",
+  "dx": "Wolff–Parkinson–White syndrome",
+  "verified": true
+ },
+ {
+  "id": "e077",
+  "type": "ecg",
+  "img": "/img/e077.jpg",
+  "dx": "Wolff–Parkinson–White syndrome",
+  "verified": true
+ },
+ {
+  "id": "e078",
+  "type": "ecg",
+  "img": "/img/e078.jpg",
+  "dx": "Wolff–Parkinson–White syndrome",
+  "verified": true
+ },
+ {
+  "id": "e079",
+  "type": "ecg",
+  "img": "/img/e079.jpg",
+  "dx": "Severe hyperkalemia",
+  "verified": true
+ },
+ {
+  "id": "e080",
+  "type": "ecg",
+  "img": "/img/e080.jpg",
+  "dx": "Hyperkalemia",
+  "verified": true
+ },
+ {
+  "id": "e081",
+  "type": "ecg",
+  "img": "/img/e081.jpg",
+  "dx": "Hypokalemia (U waves, first-degree AV block)",
+  "verified": true
+ },
+ {
+  "id": "e082",
+  "type": "ecg",
+  "img": "/img/e082.jpg",
+  "dx": "Hyperkalemia",
+  "verified": true
+ },
+ {
+  "id": "e083",
+  "type": "ecg",
+  "img": "/img/e083.jpg",
+  "dx": "Monomorphic ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e084",
+  "type": "ecg",
+  "img": "/img/e084.jpg",
+  "dx": "Torsades de pointes (polymorphic VT)",
+  "verified": true
+ },
+ {
+  "id": "e085",
+  "type": "ecg",
+  "img": "/img/e085.jpg",
+  "dx": "Polymorphic ventricular tachycardia (torsades de pointes)",
+  "verified": true
+ },
+ {
+  "id": "e086",
+  "type": "ecg",
+  "img": "/img/e086.jpg",
+  "dx": "Sinus bradycardia",
+  "verified": true
+ },
+ {
+  "id": "e087",
+  "type": "ecg",
+  "img": "/img/e087.jpg",
+  "dx": "Sinus bradycardia with bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e088",
+  "type": "ecg",
+  "img": "/img/e088.jpg",
+  "dx": "Sinus bradycardia with first-degree AV block",
+  "verified": true
+ },
+ {
+  "id": "e089",
+  "type": "ecg",
+  "img": "/img/e089.jpg",
+  "dx": "Sinus bradycardia",
+  "verified": true
+ },
+ {
+  "id": "e090",
+  "type": "ecg",
+  "img": "/img/e090.jpg",
+  "dx": "Sinus bradycardia with ventricular bigeminy",
+  "verified": true
+ },
+ {
+  "id": "e091",
+  "type": "ecg",
+  "img": "/img/e091.jpg",
+  "dx": "Sinus bradycardia",
+  "verified": true
+ },
+ {
+  "id": "e092",
+  "type": "ecg",
+  "img": "/img/e092.jpg",
+  "dx": "Sinus tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e093",
+  "type": "ecg",
+  "img": "/img/e093.jpg",
+  "dx": "Sinus tachycardia with muscle artifact",
+  "verified": true
+ },
+ {
+  "id": "e094",
+  "type": "ecg",
+  "img": "/img/e094.jpg",
+  "dx": "Sinus tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e095",
+  "type": "ecg",
+  "img": "/img/e095.jpg",
+  "dx": "Sinus tachycardia with a ventricular extrasystole; right atrial and right ventricular hypertrophy",
+  "verified": true
+ },
+ {
+  "id": "e096",
+  "type": "ecg",
+  "img": "/img/e096.jpg",
+  "dx": "Sinus rhythm with ventricular bigeminy",
+  "verified": true
+ },
+ {
+  "id": "e097",
+  "type": "ecg",
+  "img": "/img/e097.jpg",
+  "dx": "Sinus tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e098",
+  "type": "ecg",
+  "img": "/img/e098.jpg",
+  "dx": "Ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e099",
+  "type": "ecg",
+  "img": "/img/e099.jpg",
+  "dx": "Ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e100",
+  "type": "ecg",
+  "img": "/img/e100.jpg",
+  "dx": "Ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e101",
+  "type": "ecg",
+  "img": "/img/e101.jpg",
+  "dx": "Torsades de pointes (ventricular tachycardia)",
+  "verified": true
+ },
+ {
+  "id": "e102",
+  "type": "ecg",
+  "img": "/img/e102.jpg",
+  "dx": "Polymorphic ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e103",
+  "type": "ecg",
+  "img": "/img/e103.jpg",
+  "dx": "Ventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e104",
+  "type": "ecg",
+  "img": "/img/e104.jpg",
+  "dx": "Left bundle branch block (sinus tachycardia)",
+  "verified": true
+ },
+ {
+  "id": "e105",
+  "type": "ecg",
+  "img": "/img/e105.jpg",
+  "dx": "Left bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e106",
+  "type": "ecg",
+  "img": "/img/e106.jpg",
+  "dx": "Left bundle branch block (complete)",
+  "verified": true
+ },
+ {
+  "id": "e107",
+  "type": "ecg",
+  "img": "/img/e107.jpg",
+  "dx": "Left bundle branch block (complete)",
+  "verified": true
+ },
+ {
+  "id": "e108",
+  "type": "ecg",
+  "img": "/img/e108.jpg",
+  "dx": "Right bundle branch block (complete)",
+  "verified": true
+ },
+ {
+  "id": "e109",
+  "type": "ecg",
+  "img": "/img/e109.jpg",
+  "dx": "Sinus bradycardia with right bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e110",
+  "type": "ecg",
+  "img": "/img/e110.jpg",
+  "dx": "Right bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e111",
+  "type": "ecg",
+  "img": "/img/e111.jpg",
+  "dx": "Bifascicular block (left anterior hemiblock + RBBB)",
+  "verified": true
+ },
+ {
+  "id": "e112",
+  "type": "ecg",
+  "img": "/img/e112.jpg",
+  "dx": "Bifascicular block (left posterior hemiblock + RBBB)",
+  "verified": true
+ },
+ {
+  "id": "e113",
+  "type": "ecg",
+  "img": "/img/e113.jpg",
+  "dx": "Right bundle branch block",
+  "verified": true
+ },
+ {
+  "id": "e114",
+  "type": "ecg",
+  "img": "/img/e114.jpg",
+  "dx": "Supraventricular tachycardia (AVNRT)",
+  "verified": true
+ },
+ {
+  "id": "e115",
+  "type": "ecg",
+  "img": "/img/e115.jpg",
+  "dx": "Escape junctional rhythm",
+  "verified": true
+ },
+ {
+  "id": "e116",
+  "type": "ecg",
+  "img": "/img/e116.jpg",
+  "dx": "Escape idioventricular rhythm",
+  "verified": true
+ },
+ {
+  "id": "e117",
+  "type": "ecg",
+  "img": "/img/e117.jpg",
+  "dx": "Accelerated idioventricular rhythm",
+  "verified": true
+ },
+ {
+  "id": "e118",
+  "type": "ecg",
+  "img": "/img/e118.jpg",
+  "dx": "Idioventricular rhythm",
+  "verified": true
+ },
+ {
+  "id": "e119",
+  "type": "ecg",
+  "img": "/img/e119.jpg",
+  "dx": "Idioventricular rhythm",
+  "verified": true
+ },
+ {
+  "id": "e120",
+  "type": "ecg",
+  "img": "/img/e120.jpg",
+  "dx": "Accelerated junctional rhythm",
+  "verified": true
+ },
+ {
+  "id": "e121",
+  "type": "ecg",
+  "img": "/img/e121.jpg",
+  "dx": "Junctional rhythm",
+  "verified": true
+ },
+ {
+  "id": "e122",
+  "type": "ecg",
+  "img": "/img/e122.jpg",
+  "dx": "Junctional rhythm",
+  "verified": true
+ },
+ {
+  "id": "e123",
+  "type": "ecg",
+  "img": "/img/e123.jpg",
+  "dx": "Accelerated junctional rhythm",
+  "verified": true
+ },
+ {
+  "id": "e124",
+  "type": "ecg",
+  "img": "/img/e124.jpg",
+  "dx": "Ventricular bigeminy",
+  "verified": true
+ },
+ {
+  "id": "e125",
+  "type": "ecg",
+  "img": "/img/e125.jpg",
+  "dx": "Atrial flutter with 2:1 conduction",
+  "verified": true
+ },
+ {
+  "id": "e126",
+  "type": "ecg",
+  "img": "/img/e126.jpg",
+  "dx": "Atrial flutter",
+  "verified": true
+ },
+ {
+  "id": "e127",
+  "type": "ecg",
+  "img": "/img/e127.jpg",
+  "dx": "Atrial flutter with variable block",
+  "verified": true
+ },
+ {
+  "id": "e128",
+  "type": "ecg",
+  "img": "/img/e128.jpg",
+  "dx": "Atrial flutter with 2:1 block",
+  "verified": true
+ },
+ {
+  "id": "e129",
+  "type": "ecg",
+  "img": "/img/e129.jpg",
+  "dx": "Atrial flutter with 4:1 block",
+  "verified": true
+ },
+ {
+  "id": "e130",
+  "type": "ecg",
+  "img": "/img/e130.jpg",
+  "dx": "Ventricular tachycardia converting to sinus rhythm after cardioversion",
+  "verified": true
+ },
+ {
+  "id": "e131",
+  "type": "ecg",
+  "img": "/img/e131.jpg",
+  "dx": "Premature ventricular beat and atrial premature beat",
+  "verified": true
+ },
+ {
+  "id": "e132",
+  "type": "ecg",
+  "img": "/img/e132.jpg",
+  "dx": "Atrial premature beat with normal sinus rhythm",
+  "verified": true
+ },
+ {
+  "id": "e133",
+  "type": "ecg",
+  "img": "/img/e133.jpg",
+  "dx": "Premature ventricular beat with normal sinus rhythm",
+  "verified": true
+ },
+ {
+  "id": "e134",
+  "type": "ecg",
+  "img": "/img/e134.jpg",
+  "dx": "Sinus rhythm with two premature atrial contractions",
+  "verified": true
+ },
+ {
+  "id": "e135",
+  "type": "ecg",
+  "img": "/img/e135.jpg",
+  "dx": "Sinus pause / sinus arrest",
+  "verified": true
+ },
+ {
+  "id": "e136",
+  "type": "ecg",
+  "img": "/img/e136.jpg",
+  "dx": "Ventricular extrasystole",
+  "verified": true
+ },
+ {
+  "id": "e137",
+  "type": "ecg",
+  "img": "/img/e137.jpg",
+  "dx": "Asystole",
+  "verified": true
+ },
+ {
+  "id": "e138",
+  "type": "ecg",
+  "img": "/img/e138.jpg",
+  "dx": "P-wave asystole (ventricular standstill)",
+  "verified": true
+ },
+ {
+  "id": "e140",
+  "type": "ecg",
+  "img": "/img/e140.jpg",
+  "dx": "PSVT (junctional rhythm converting to supraventricular tachycardia)",
+  "verified": true
+ },
+ {
+  "id": "e141",
+  "type": "ecg",
+  "img": "/img/e141.jpg",
+  "dx": "PSVT (junctional rhythm converting to supraventricular tachycardia)",
+  "verified": true
+ },
+ {
+  "id": "e142",
+  "type": "ecg",
+  "img": "/img/e142.jpg",
+  "dx": "Torsades de pointes",
+  "verified": true
+ },
+ {
+  "id": "e143",
+  "type": "ecg",
+  "img": "/img/e143.jpg",
+  "dx": "Acute pulmonary embolism (sinus tachycardia, S1Q3T3)",
+  "verified": true
+ },
+ {
+  "id": "e145",
+  "type": "ecg",
+  "img": "/img/e145.jpg",
+  "dx": "Atrioventricular (dual-chamber) paced rhythm",
+  "verified": true
+ },
+ {
+  "id": "e146",
+  "type": "ecg",
+  "img": "/img/e146.jpg",
+  "dx": "Artificial ventricular pacemaker rhythm",
+  "verified": true
+ },
+ {
+  "id": "e147",
+  "type": "ecg",
+  "img": "/img/e147.jpg",
+  "dx": "Wandering atrial pacemaker with old anteroseptal MI",
+  "verified": true
+ },
+ {
+  "id": "e148",
+  "type": "ecg",
+  "img": "/img/e148.jpg",
+  "dx": "Normal sinus rhythm",
+  "verified": true
+ },
+ {
+  "id": "e149",
+  "type": "ecg",
+  "img": "/img/e149.jpg",
+  "dx": "Normal sinus rhythm with U wave",
+  "verified": true
+ },
+ {
+  "id": "e150",
+  "type": "ecg",
+  "img": "/img/e150.jpg",
+  "dx": "Sinus rhythm with premature junctional contractions",
+  "verified": true
+ },
+ {
+  "id": "e151",
+  "type": "ecg",
+  "img": "/img/e151.jpg",
+  "dx": "Sinus rhythm with ST-segment depression",
+  "verified": true
+ },
+ {
+  "id": "e152",
+  "type": "ecg",
+  "img": "/img/e152.jpg",
+  "dx": "Sinus rhythm with two premature atrial contractions",
+  "verified": true
+ },
+ {
+  "id": "e153",
+  "type": "ecg",
+  "img": "/img/e153.jpg",
+  "dx": "Sinus rhythm with ventricular trigeminy",
+  "verified": true
+ },
+ {
+  "id": "e154",
+  "type": "ecg",
+  "img": "/img/e154.jpg",
+  "dx": "Sinus rhythm with multiform PVCs",
+  "verified": true
+ },
+ {
+  "id": "e155",
+  "type": "ecg",
+  "img": "/img/e155.jpg",
+  "dx": "Supraventricular tachycardia converting to sinus rhythm",
+  "verified": true
+ },
+ {
+  "id": "e156",
+  "type": "ecg",
+  "img": "/img/e156.jpg",
+  "dx": "Supraventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e157",
+  "type": "ecg",
+  "img": "/img/e157.jpg",
+  "dx": "Supraventricular (nodal) tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e158",
+  "type": "ecg",
+  "img": "/img/e158.jpg",
+  "dx": "Supraventricular (junctional) tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e159",
+  "type": "ecg",
+  "img": "/img/e159.jpg",
+  "dx": "Supraventricular tachycardia converting to sinus rhythm",
+  "verified": true
+ },
+ {
+  "id": "e160",
+  "type": "ecg",
+  "img": "/img/e160.jpg",
+  "dx": "AV nodal reentrant tachycardia (SVT)",
+  "verified": true
+ },
+ {
+  "id": "e161",
+  "type": "ecg",
+  "img": "/img/e161.jpg",
+  "dx": "Atrial tachycardia (SVT)",
+  "verified": true
+ },
+ {
+  "id": "e162",
+  "type": "ecg",
+  "img": "/img/e162.jpg",
+  "dx": "Supraventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e163",
+  "type": "ecg",
+  "img": "/img/e163.jpg",
+  "dx": "Supraventricular tachycardia",
+  "verified": true
+ },
+ {
+  "id": "e164",
+  "type": "ecg",
+  "img": "/img/e164.jpg",
+  "dx": "Ventricular fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e165",
+  "type": "ecg",
+  "img": "/img/e165.jpg",
+  "dx": "Ventricular fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e166",
+  "type": "ecg",
+  "img": "/img/e166.jpg",
+  "dx": "Ventricular fibrillation converted to sinus rhythm by defibrillation",
+  "verified": true
+ },
+ {
+  "id": "e167",
+  "type": "ecg",
+  "img": "/img/e167.jpg",
+  "dx": "Ventricular fibrillation",
+  "verified": true
+ },
+ {
+  "id": "e168",
+  "type": "ecg",
+  "img": "/img/e168.jpg",
+  "dx": "Artifact due to loose electrodes",
+  "verified": true
+ },
+ {
+  "id": "e169",
+  "type": "ecg",
+  "img": "/img/e169.jpg",
+  "dx": "Sinus arrhythmia",
+  "verified": true
+ },
+ {
+  "id": "x07",
+  "type": "xray",
+  "img": "/img/x07.jpg",
+  "dx": "Pulmonary tuberculosis (bilateral upper-zone cavitary disease)",
+  "verified": false
+ },
+ {
+  "id": "x09",
+  "type": "xray",
+  "img": "/img/x09.jpg",
+  "dx": "Pneumopericardium",
+  "verified": false
+ },
+ {
+  "id": "x10",
+  "type": "xray",
+  "img": "/img/x10.jpg",
+  "dx": "Massive left pleural effusion",
+  "verified": false
+ },
+ {
+  "id": "x12",
+  "type": "xray",
+  "img": "/img/x12.jpg",
+  "dx": "Pericardial effusion (globular 'water-bottle' heart)",
+  "verified": false
+ },
+ {
+  "id": "x15",
+  "type": "xray",
+  "img": "/img/x15.jpg",
+  "dx": "Lung abscess (thick-walled cavity with air-fluid level)",
+  "verified": false
+ },
+ {
+  "id": "x17",
+  "type": "xray",
+  "img": "/img/x17.jpg",
+  "dx": "Osteoarthritis of the hand (DIP / Heberden's nodes)",
+  "verified": false
+ },
+ {
+  "id": "x20",
+  "type": "xray",
+  "img": "/img/x20.jpg",
+  "dx": "Rheumatoid arthritis (bilateral hands)",
+  "verified": false
+ },
+ {
+  "id": "x21",
+  "type": "xray",
+  "img": "/img/x21.jpg",
+  "dx": "Osteoarthritis of the knee",
+  "verified": false
+ },
+ {
+  "id": "x22",
+  "type": "xray",
+  "img": "/img/x22.jpg",
+  "dx": "Paget's disease of the skull",
+  "verified": false
+ },
+ {
+  "id": "x23",
+  "type": "xray",
+  "img": "/img/x23.jpg",
+  "dx": "Normal chest X-ray",
+  "verified": false
+ },
+ {
+  "id": "x25",
+  "type": "xray",
+  "img": "/img/x25.jpg",
+  "dx": "Emphysema (COPD) with bullae",
+  "verified": false
+ },
+ {
+  "id": "x27",
+  "type": "xray",
+  "img": "/img/x27.jpg",
+  "dx": "Congenital diaphragmatic hernia",
+  "verified": false
+ },
+ {
+  "id": "x32",
+  "type": "xray",
+  "img": "/img/x32.jpg",
+  "dx": "Multiple myeloma (punched-out lytic skull lesions)",
+  "verified": false
+ },
+ {
+  "id": "x41",
+  "type": "xray",
+  "img": "/img/x41.jpg",
+  "dx": "Miliary tuberculosis",
+  "verified": false
+ },
+ {
+  "id": "x42",
+  "type": "xray",
+  "img": "/img/x42.jpg",
+  "dx": "Lung abscess (thick-walled cavitating lesion)",
+  "verified": false
+ },
+ {
+  "id": "x45",
+  "type": "xray",
+  "img": "/img/x45.jpg",
+  "dx": "Left pneumothorax",
+  "verified": false
+ },
+ {
+  "id": "x47",
+  "type": "xray",
+  "img": "/img/x47.jpg",
+  "dx": "Bilateral hilar lymphadenopathy",
+  "verified": false
+ },
+ {
+  "id": "x48",
+  "type": "xray",
+  "img": "/img/x48.jpg",
+  "dx": "Mitral stenosis (left atrial enlargement)",
+  "verified": false
+ },
+ {
+  "id": "x49",
+  "type": "xray",
+  "img": "/img/x49.jpg",
+  "dx": "Cardiomegaly with permanent pacemaker / ICD in situ",
+  "verified": false
+ },
+ {
+  "id": "x51",
+  "type": "xray",
+  "img": "/img/x51.jpg",
+  "dx": "Ankylosing spondylitis (bamboo spine)",
+  "verified": false
+ },
+ {
+  "id": "x53",
+  "type": "xray",
+  "img": "/img/x53.jpg",
+  "dx": "Right hydropneumothorax",
+  "verified": false
+ },
+ {
+  "id": "x54",
+  "type": "xray",
+  "img": "/img/x54.jpg",
+  "dx": "Bronchiectasis (bronchogram)",
+  "verified": false
+ },
+ {
+  "id": "x57",
+  "type": "xray",
+  "img": "/img/x57.jpg",
+  "dx": "Interstitial lung disease / pulmonary fibrosis",
+  "verified": false
+ },
+ {
+  "id": "x58",
+  "type": "xray",
+  "img": "/img/x58.jpg",
+  "dx": "Pulmonary edema",
+  "verified": false
+ }
+]
